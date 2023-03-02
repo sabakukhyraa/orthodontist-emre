@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Montserrat-Medium
+font link: https://fonts.google.com/specimen/Montserrat
+font author: Julieta Ulanovsky
+font author site: http://www.zkysky.com.ar/
+Slogan Font: Renner-Thin.otf
+
+icon designer: Made
+icon designer link: /elki
+        
+
+fontColor: {"hex":"#0ea5e9"}
+bgColor: {"hex":"#00000000"}
+iconColor: {"hex":"#0ea5e9"}
+sloganColor: {"hex":"#0c4a6e"}
+      
